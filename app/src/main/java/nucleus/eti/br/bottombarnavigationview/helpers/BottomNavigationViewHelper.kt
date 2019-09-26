@@ -7,12 +7,12 @@ import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.view.View
-import nucleus.eti.br.bottombarnavigationview.R
 import android.view.ViewGroup
 import android.support.v7.view.menu.MenuView
 import android.view.LayoutInflater
 import android.util.TypedValue
 import android.util.DisplayMetrics
+import nucleus.eti.br.bottombarnavigationview.R
 
 object BottomNavigationViewHelper {
 
